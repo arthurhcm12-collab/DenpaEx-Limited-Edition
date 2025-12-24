@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "iscream_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "iscream_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "iscream_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "iscream_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "iscream_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/iscream",
+	"position": [
+		-640,
+		-60
+	],
+	"healthicon": "iscream",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		40,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bunny_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bunny_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bunny_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bunny_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bunny_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "jean_l"
+		},
+		{
+			"offsets": [
+				-15,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "jean_r"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "jean_u"
+		},
+		{
+			"offsets": [
+				10,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "jean_d"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bunny",
+	"position": [
+		-190,
+		90
+	],
+	"healthicon": "bunny",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		160
+	],
+	"camera_position": [
+		-110,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fwench_idle"
+		},
+		{
+			"offsets": [
+				10,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fwench_left"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fwench_down"
+		},
+		{
+			"offsets": [
+				-10,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fwench_up"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fwench_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fwench",
+	"position": [
+		-80,
+		250
+	],
+	"healthicon": "fwench",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		221
+	],
+	"camera_position": [
+		70,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
