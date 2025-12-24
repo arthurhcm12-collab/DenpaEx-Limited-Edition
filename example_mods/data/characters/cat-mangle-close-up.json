@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-49
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "cat-mangle-close-up Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				216,
+				-55
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "cat-mangle-close-up Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-295,
+				-54
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "cat-mangle-close-up Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-49
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "cat-mangle-close-up Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-45
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "cat-mangle-close-up Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cat-mangle-close-up",
+	"position": [
+		-390,
+		-70
+	],
+	"healthicon": "catmangle",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		35,
+		135
+	],
+	"camera_position": [
+		380,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}
