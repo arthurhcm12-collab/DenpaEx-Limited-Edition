@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="iscream.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="iscream_down0000" x="1503" y="4325" width="1512" height="784" pivotX="47.9" pivotY="-86.15" frameX="-3" frameY="-32" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0001" x="1503" y="4325" width="1512" height="784" frameX="-3" frameY="-32" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0002" x="4502" y="4320" width="1487" height="804" frameX="-7" frameY="-11" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0003" x="4502" y="4320" width="1487" height="804" frameX="-7" frameY="-11" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0004" x="4502" y="3505" width="1503" height="815" frameX="0" frameY="0" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0005" x="4502" y="3505" width="1503" height="815" frameX="0" frameY="0" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0006" x="6005" y="3514" width="1503" height="815" frameX="0" frameY="0" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0007" x="6005" y="3514" width="1503" height="815" frameX="0" frameY="0" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0008" x="0" y="3521" width="1503" height="815" frameX="0" frameY="0" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0009" x="0" y="3521" width="1503" height="815" frameX="0" frameY="0" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0010" x="4502" y="3505" width="1503" height="815" frameX="0" frameY="0" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0011" x="4502" y="3505" width="1503" height="815" frameX="0" frameY="0" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0012" x="6005" y="3514" width="1503" height="815" frameX="0" frameY="0" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0013" x="6005" y="3514" width="1503" height="815" frameX="0" frameY="0" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_down0014" x="0" y="3521" width="1503" height="815" frameX="0" frameY="0" frameWidth="1515" frameHeight="816"/>
+	<SubTexture name="iscream_idle0000" x="0" y="900" width="1508" height="880" pivotX="1.5" pivotY="-21.55" frameX="-1" frameY="0" frameWidth="1512" frameHeight="880"/>
+	<SubTexture name="iscream_idle0001" x="6032" y="1790" width="1508" height="873" frameX="0" frameY="-7" frameWidth="1512" frameHeight="880"/>
+	<SubTexture name="iscream_idle0002" x="1508" y="919" width="1508" height="880" frameX="-1" frameY="0" frameWidth="1512" frameHeight="880"/>
+	<SubTexture name="iscream_idle0003" x="4524" y="1790" width="1508" height="878" frameX="-4" frameY="-2" frameWidth="1512" frameHeight="880"/>
+	<SubTexture name="iscream_idle0004" x="3016" y="919" width="1508" height="880" frameX="-1" frameY="0" frameWidth="1512" frameHeight="880"/>
+	<SubTexture name="iscream_idle0005" x="0" y="1780" width="1507" height="880" frameX="0" frameY="0" frameWidth="1512" frameHeight="880"/>
+	<SubTexture name="iscream_left0000" x="1503" y="3521" width="1487" height="804" pivotX="40.4" pivotY="-50.1" frameX="0" frameY="-47" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0001" x="1503" y="3521" width="1487" height="804" frameX="0" frameY="-47" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0002" x="4523" y="2668" width="1490" height="837" frameX="-3" frameY="-14" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0003" x="4523" y="2668" width="1490" height="837" frameX="-3" frameY="-14" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0004" x="3024" y="1799" width="1489" height="851" frameX="-7" frameY="0" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0005" x="3024" y="1799" width="1489" height="851" frameX="-7" frameY="0" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0006" x="3034" y="2650" width="1489" height="851" frameX="-7" frameY="0" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0007" x="3034" y="2650" width="1489" height="851" frameX="-7" frameY="0" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0008" x="6032" y="2663" width="1489" height="851" frameX="-7" frameY="0" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0009" x="6032" y="2663" width="1489" height="851" frameX="-7" frameY="0" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0010" x="3024" y="1799" width="1489" height="851" frameX="-7" frameY="0" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0011" x="3024" y="1799" width="1489" height="851" frameX="-7" frameY="0" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0012" x="3034" y="2650" width="1489" height="851" frameX="-7" frameY="0" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0013" x="3034" y="2650" width="1489" height="851" frameX="-7" frameY="0" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_left0014" x="6032" y="2663" width="1489" height="851" frameX="-7" frameY="0" frameWidth="1496" frameHeight="851"/>
+	<SubTexture name="iscream_right0000" x="0" y="0" width="1518" height="900" pivotX="-27.1" pivotY="-1.55" frameX="-9" frameY="0" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0001" x="0" y="0" width="1518" height="900" frameX="-9" frameY="0" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0002" x="5973" y="0" width="1518" height="887" frameX="-4" frameY="-13" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0003" x="5973" y="0" width="1518" height="887" frameX="-4" frameY="-13" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0004" x="1507" y="1799" width="1517" height="861" frameX="0" frameY="-39" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0005" x="1507" y="1799" width="1517" height="861" frameX="0" frameY="-39" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0006" x="0" y="2660" width="1517" height="861" frameX="0" frameY="-39" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0007" x="0" y="2660" width="1517" height="861" frameX="0" frameY="-39" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0008" x="1517" y="2660" width="1517" height="861" frameX="0" frameY="-39" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0009" x="1517" y="2660" width="1517" height="861" frameX="0" frameY="-39" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0010" x="1507" y="1799" width="1517" height="861" frameX="0" frameY="-39" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0011" x="1507" y="1799" width="1517" height="861" frameX="0" frameY="-39" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0012" x="0" y="2660" width="1517" height="861" frameX="0" frameY="-39" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0013" x="0" y="2660" width="1517" height="861" frameX="0" frameY="-39" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_right0014" x="1517" y="2660" width="1517" height="861" frameX="0" frameY="-39" frameWidth="1527" frameHeight="900"/>
+	<SubTexture name="iscream_up0000" x="3034" y="3501" width="1468" height="845" pivotX="27.65" pivotY="29.45" frameX="-6" frameY="-69" frameWidth="1485" frameHeight="919"/>
+	<SubTexture name="iscream_up0001" x="3034" y="3501" width="1468" height="845" frameX="-6" frameY="-69" frameWidth="1485" frameHeight="919"/>
+	<SubTexture name="iscream_up0002" x="5973" y="887" width="1477" height="903" frameX="-3" frameY="-15" frameWidth="1485" frameHeight="919"/>
+	<SubTexture name="iscream_up0003" x="5973" y="887" width="1477" height="903" frameX="-3" frameY="-15" frameWidth="1485" frameHeight="919"/>
+	<SubTexture name="iscream_up0004" x="1518" y="0" width="1485" height="919"/>
+	<SubTexture name="iscream_up0005" x="1518" y="0" width="1485" height="919"/>
+	<SubTexture name="iscream_up0006" x="3003" y="0" width="1485" height="919"/>
+	<SubTexture name="iscream_up0007" x="3003" y="0" width="1485" height="919"/>
+	<SubTexture name="iscream_up0008" x="4488" y="0" width="1485" height="919"/>
+	<SubTexture name="iscream_up0009" x="4488" y="0" width="1485" height="919"/>
+	<SubTexture name="iscream_up0010" x="1518" y="0" width="1485" height="919"/>
+	<SubTexture name="iscream_up0011" x="1518" y="0" width="1485" height="919"/>
+	<SubTexture name="iscream_up0012" x="3003" y="0" width="1485" height="919"/>
+	<SubTexture name="iscream_up0013" x="3003" y="0" width="1485" height="919"/>
+	<SubTexture name="iscream_up0014" x="4488" y="0" width="1485" height="919"/>
+</TextureAtlas>
