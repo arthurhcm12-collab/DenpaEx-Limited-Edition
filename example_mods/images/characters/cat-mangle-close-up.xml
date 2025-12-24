@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cat-mangle-close-up.png"><SubTexture name="cat-mangle-close-up Idle0000" x="951" y="787" width="482" height="653" frameX="-410" frameY="-193" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Idle0001" x="474" y="787" width="477" height="658" frameX="-409" frameY="-188" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Idle0002" x="1068" y="0" width="476" height="664" frameX="-405" frameY="-182" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Idle0003" x="0" y="787" width="474" height="663" frameX="-403" frameY="-183" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Down0000" x="2430" y="0" width="571" height="561" frameX="-354" frameY="-283" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Down0001" x="1728" y="1450" width="558" height="580" frameX="-360" frameY="-264" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Down0002" x="1728" y="1450" width="558" height="580" frameX="-360" frameY="-264" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Down0003" x="1728" y="1450" width="558" height="580" frameX="-360" frameY="-264" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Left0000" x="1544" y="0" width="886" height="629" frameX="-154" frameY="-217" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Left0001" x="1544" y="629" width="844" height="629" frameX="-197" frameY="-217" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Left0002" x="1544" y="629" width="844" height="629" frameX="-197" frameY="-217" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Left0003" x="1544" y="629" width="844" height="629" frameX="-197" frameY="-217" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Right0000" x="0" y="1450" width="884" height="629" frameX="-149" frameY="-215" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Right0001" x="884" y="1450" width="844" height="629" frameX="-148" frameY="-215" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Right0002" x="884" y="1450" width="844" height="629" frameX="-148" frameY="-215" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Right0003" x="884" y="1450" width="844" height="629" frameX="-148" frameY="-215" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Up0000" x="0" y="0" width="528" height="787" frameX="-412" frameY="-59" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Up0001" x="528" y="0" width="540" height="777" frameX="-407" frameY="-69" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Up0002" x="528" y="0" width="540" height="777" frameX="-407" frameY="-69" frameWidth="1280" frameHeight="846" />
+<SubTexture name="cat-mangle-close-up Up0003" x="528" y="0" width="540" height="777" frameX="-407" frameY="-69" frameWidth="1280" frameHeight="846" />
+</TextureAtlas>
